@@ -25,7 +25,7 @@ Atualmente meu foco é me especializar cada vez mais em desenvolvimento WEB Full
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white))
-![Tailwind](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss))
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
 #### Back-End:
 
