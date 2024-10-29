@@ -9,13 +9,9 @@
 
 ## Sobre Mim :wave:
 
-Meu nome é Bruno, tenho 29 anos e faço Analise e Desenvolvimento de Sistemas na Universidade Potiguar do Rio Grande do Norte. 
+Meu nome é Bruno, sou formado em Analise e Desenvolvimento de Sistemas pela Universidade Potiguar do Rio Grande do Norte. 
 
-Estou me tornando desenvolvedor web e aplicativos, adquirindo conhecimentos nas mais diversas tecnologias do momento, tais como: WEB: HTML5, CSS3, Javascript, ReactJS, React Native, NodeJS, ExpressJS, Sequelize, PostgreSQL, MySql, Knex, PHP, Bootstrap, Axios.  
-
-Atualmente meu foco é me especializar cada vez mais em desenvolvimento WEB Full-Stack, porém tenho interesse em Mobile
-
-## Tecnologias que estou estudando :books:
+Sou especialista em desenvolvimento web com profundo conhecimento nas seguintes tecnologias: HTML5, CSS3, Javascript, Tailwind, Mui, ReactJS, React Native, NodeJS, Nestjs, Apollo Client, Apollo Serve, Graphql, PostgreSQL, MySql, Prisma Orm, TypeORm, PHP, Nextjs, Typescript, Javascript.   
 
 #### Front-end:
 
@@ -34,8 +30,6 @@ Atualmente meu foco é me especializar cada vez mais em desenvolvimento WEB Full
 ![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PRISMA](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
